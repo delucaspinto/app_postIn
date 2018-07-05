@@ -2,4 +2,4 @@
 Aplicativo para postagem nas redes sociais
 
 v 0.1
-### Postagem no Twitter
+ADD - **Postagem no Twitter**
